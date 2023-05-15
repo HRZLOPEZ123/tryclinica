@@ -1,0 +1,55 @@
+import React from "react";
+import { View, StyleSheet, ScrollView, Text } from "react-native/types";
+import { Component } from "react/cjs/react.production.min";
+/*import StyledText from "./StyledText.jsx"; */
+
+
+
+/*
+const AppBarTab = ({Children, to}) => {
+             const {Pathname}   = useLocation()
+     const active = Pathname == to
+
+             const textStyles =[
+                Styles.text,
+                active && StyleSheet.active
+             ]
+
+          return(
+               <Link to = {to} Component ={TouchableWithoutFeedback}>
+               <Text style = {textStyles}>
+                     {Children}
+                </Text>
+          ),
+
+}
+
+const AppBar = () =>{
+    return(
+        <View>
+           <ScrollView horizontal style = {styles.scroll}>
+               <AppBarTab to = "/">Doctores</AppBarTab>
+               <AppBarTab to = "/">Pacientes</AppBarTab>
+           </ScrollView>
+        <View>
+    )
+}
+ 
+
+*/
+
+//sabes que, comencemoslo desde cero pero teniendo en cuenta lo que no hicimos del video
+//por ejemplo nosotros no creamos el styledText por eso no son va a servir
+
+
+
+
+
+
+
+
+
+
+
+
+
